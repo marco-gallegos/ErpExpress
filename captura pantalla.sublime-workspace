@@ -1,0 +1,541 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inpu",
+				"inputt\tinput - text"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bod",
+				"body"
+			],
+			[
+				"va",
+				"$val1〔variable〕"
+			],
+			[
+				"val",
+				"$val2〔variable〕"
+			],
+			[
+				"just",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"car",
+				"card \tBootstrap 4 Class"
+			],
+			[
+				"link",
+				"page-link \tBootstrap 4 Class"
+			],
+			[
+				"sel",
+				"selected\tAttr"
+			],
+			[
+				"form",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"lab",
+				"label\t<label>"
+			],
+			[
+				"ec",
+				"echoh\t<?php echo htmlentities(…) ?>"
+			],
+			[
+				"btn",
+				"btn-primary \tBootstrap 3 Class"
+			],
+			[
+				"d",
+				"dist/"
+			],
+			[
+				"cur",
+				"curl_error〔function〕"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"curl_err",
+				"curl_error"
+			],
+			[
+				"res",
+				"$result〔variable〕"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"resul",
+				"$resultadoServicio〔variable〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"php",
+				"db.php"
+			],
+			[
+				"req",
+				"require_once〔keyword〕"
+			],
+			[
+				"str",
+				"stringcsv"
+			],
+			[
+				"articu",
+				"articulo〔variable〕"
+			],
+			[
+				"art",
+				"articulo〔variable〕"
+			],
+			[
+				"num",
+				"num_level2〔variable〕"
+			],
+			[
+				"arti",
+				"articuloC〔variable〕"
+			],
+			[
+				"nume",
+				"num_leve1〔variable〕"
+			],
+			[
+				"ima",
+				"imegenFecha〔variable〕"
+			],
+			[
+				"id",
+				"idMarca〔variable〕"
+			],
+			[
+				"no",
+				"no_parte〔variable〕"
+			],
+			[
+				"descr",
+				"descripcion_corta"
+			],
+			[
+				"col-xs-off",
+				"col-xs-offset-4 \tBootstrap 3 Class"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"to",
+				"toRoute〔function〕"
+			],
+			[
+				"url",
+				"Url"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"img",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"strto",
+				"strtotime〔function〕"
+			],
+			[
+				"fecha",
+				"$fecha_inicio〔variable〕"
+			],
+			[
+				"fech_",
+				"$fech_temp〔variable〕"
+			],
+			[
+				"asiste",
+				"$asistenciaGeneral〔variable〕"
+			],
+			[
+				"fi",
+				"findaba\tYii Model findAllByAttributes"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"bg-",
+				"bg-danger \tBootstrap 3 Class"
+			],
+			[
+				"find",
+				"findByAttributes"
+			],
+			[
+				"repe",
+				"$repetidos〔variable〕"
+			],
+			[
+				"fec",
+				"fecha_captura"
+			],
+			[
+				"event",
+				"$eventovinculado〔variable〕"
+			],
+			[
+				"even",
+				"$eventosCongreso〔variable〕"
+			],
+			[
+				"Even",
+				"Evento〔class〕"
+			],
+			[
+				"id_",
+				"id_congreso"
+			],
+			[
+				"strt",
+				"strtotime〔function〕"
+			],
+			[
+				"Asiste",
+				"AsistenciaCongreso"
+			],
+			[
+				"pu",
+				"pull-right \tBootstrap 3 Class"
+			],
+			[
+				"registr",
+				"registros"
+			],
+			[
+				"table",
+				"table-striped \tBootstrap 3 Class"
+			],
+			[
+				"table-",
+				"table-hover \tBootstrap 3 Class"
+			],
+			[
+				"Lista",
+				"ListaAsistenciaFecha〔class〕"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"asis",
+				"$asistentesPorFecha〔variable〕"
+			],
+			[
+				"rend",
+				"renderPartial"
+			],
+			[
+				"eve",
+				"eventosCongreso"
+			],
+			[
+				"findab",
+				"findaba\tYii Model findAllByAttributes"
+			],
+			[
+				"coun",
+				"count〔function〕"
+			],
+			[
+				"fge",
+				"fgetcsv〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"L",
+				"ListaAsistencia::model"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 260.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 615.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/srv/http/ssbd/notasLaravel.md",
+		"/srv/http/ssbd/captura_pantalla/routes/web.php",
+		"/srv/http/ssbd/captura_pantalla/app/cliente.php",
+		"/srv/http/ssbd/captura_pantalla/.env",
+		"/home/cebox/cucei7/SSBD/LibretaTrabajos/index.html",
+		"/home/cebox/Descargas/Telegram Desktop/DiagramaSema4equipo.dia",
+		"/home/cebox/cucei7/PPI/sem3 css/login.html",
+		"/home/cebox/cucei7/SSBD/sem2/EREQUIPO.dia",
+		"/home/cebox/cucei7/SSBD/sem2/test.sql",
+		"/home/cebox/Escritorio/diagramaSemana3.dia",
+		"/srv/http/laravel/notasLaravel.md",
+		"/home/cebox/Escritorio/test.sql",
+		"/srv/http/PPI/tarea1/index.php",
+		"/srv/http/globaloffice/apitest/ctindex.php",
+		"/srv/http/globaloffice/apitest/index.php",
+		"/srv/http/globaloffice/apitest/test.sql",
+		"/srv/http/globaloffice/apitest/indexold.php",
+		"/home/cebox/globaloffice/apitest.globaloffice.com.mx/db.php",
+		"/home/cebox/globaloffice/script/out.csv",
+		"/home/cebox/Escritorio/productos.xml",
+		"/home/cebox/Escritorio/productos (copia).xml",
+		"/srv/http/yii2base/controllers/SiteController.php",
+		"/srv/http/yii2base/views/layouts/login.php",
+		"/srv/http/yii2base/views/site/login.php",
+		"/srv/http/yii2base/views/site/_formulario.php",
+		"/srv/http/yii2base/views/layouts/main.php",
+		"/srv/http/yii2base/views/site/saluda.php",
+		"/srv/http/public_html/smart/protected/controllers/ListaAsistenciaController.php",
+		"/home/cebox/gpoascen/respaldo bd/listaAsistenciaFecha-Fechas cargadas mias.sql",
+		"/home/cebox/gpoascen/respaldo bd/listaAsistenciaFecha-F.sql",
+		"/srv/http/public_html/smart/protected/models/FechaEvento.php",
+		"/srv/http/public_html/smart/protected/views/reporteador/asistencia.php",
+		"/srv/http/public_html/smart/protected/controllers/ReporteadorController.php",
+		"/srv/http/public_html/smart/protected/views/listaAsistencia/createcsv.php",
+		"/srv/http/public_html/smart/protected/models/ListaAsistenciaCongreso.php",
+		"/srv/http/test/procesar.php",
+		"/run/media/cebox/BigStorage/gpoascen/respaldo bd/listaAsistenciaFecha-Fechas cargadas mias.sql",
+		"/srv/http/public_html/smart/protected/models/ListaAsistenciaFecha.php",
+		"/srv/http/public_html/smart/protected/models/AsistenciaPorFecha.php",
+		"/srv/http/public_html/smart/protected/models/Evento.php",
+		"/srv/http/public_html/smart/protected/models/AsistenciaCongreso.php",
+		"/srv/http/public_html/smart/protected/controllers/VcongresoController.php",
+		"/srv/http/public_html/smart/protected/views/congreso/listarregistradosfecha.php",
+		"/srv/http/public_html/smart/protected/views/reporteador/congreso.php",
+		"/srv/http/public_html/smart/protected/views/reporteador/Rvendedor.php",
+		"/srv/http/public_html/smart/protected/views/reporteador/indexRVendedor.php",
+		"/srv/http/public_html/smart/themes/admin-lte/views/layouts/column2.php",
+		"/home/cebox/.config/mate/panel2.d/default/launchers/opera-1.desktop",
+		"/home/cebox/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/srv/http/public_html/smart/protected/views/listaAsistencia/indexCongreso.php",
+		"/home/cebox/gpoascen/listaAsistenciaFecha-miCapturaDeAsistencias.sql",
+		"/home/cebox/gpoascen/respaldos smart/post-vcongreso/listaAsistenciaFecha-asistenciatalleres.sql",
+		"/home/cebox/gpoascen/asistentes_evento_congreso_fecha.sql",
+		"/home/cebox/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/srv/http/public_html/smart/protected/views/reporteador/indexasistencia.php",
+		"/srv/http/public_html/smart/protected/views/reporteador/index.php",
+		"/srv/http/public_html/smart/protected/views/congreso/listeventosasistencia.php",
+		"/srv/http/public_html/smart/protected/views/congreso/listeventos.php",
+		"/srv/http/public_html/smart/readme.md",
+		"/home/cebox/.config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/srv/http/public_html/smart/protected/views/listaAsistencia/_formcsv.php",
+		"/srv/http/test/index.html",
+		"/srv/http/public_html/smart/protected/views/listaAsistencia/create.php",
+		"/home/cebox/test.html",
+		"/home/cebox/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "captura pantalla.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
